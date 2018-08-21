@@ -2,13 +2,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>net.petrikainulainen.maven</groupId>
+    <groupId>com.simplilearn.maven</groupId>
     <artifactId>properties-filtering</artifactId>
     <version>0.1</version>
     <packaging>jar</packaging>
 
     <name>Maven Properties Filtering Example</name>
-    <url>http://www.petrikainulainen.net</url>
+    <url>http://www.simplilearn.com</url>
     <licenses>
         <license>
             <name>Apache Licence 2.0</name>

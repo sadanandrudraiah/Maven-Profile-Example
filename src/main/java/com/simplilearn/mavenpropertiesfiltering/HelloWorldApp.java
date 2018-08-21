@@ -1,4 +1,4 @@
-package net.petrikainulainen.mavenpropertiesfiltering;
+package com.simplilearn.mavenpropertiesfiltering;
 
 import org.apache.log4j.Logger;
 
